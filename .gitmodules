@@ -7,3 +7,9 @@
 [submodule "scratch-gui"]
 	path = scratch-gui
 	url = https://github.com/scratchfoundation/scratch-gui
+[submodule "scratch-blocks"]
+	path = scratch-blocks
+	url = https://github.com/scratchfoundation/scratch-blocks
+[submodule "scratch-render"]
+	path = scratch-render
+	url = https://github.com/scratchfoundation/scratch-render
