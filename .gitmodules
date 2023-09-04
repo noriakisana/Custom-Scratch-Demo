@@ -1,0 +1,9 @@
+[submodule "closure-library"]
+	path = closure-library
+	url = https://github.com/google/closure-library
+[submodule "scratch-vm"]
+	path = scratch-vm
+	url = https://github.com/noriakisana/scratch-vm
+[submodule "scratch-gui"]
+	path = scratch-gui
+	url = https://github.com/scratchfoundation/scratch-gui
